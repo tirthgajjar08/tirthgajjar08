@@ -48,11 +48,11 @@
 </div>
 
 <br>
-- 🔭 I’m currently working on **React js Ecommerce platform **
+🔭 I’m currently working on **React js Ecommerce platform **
 
-- 🌱 I’m currently learning **Advance front end language and framework**
+🌱 I’m currently learning **Advance front end language and framework**
 
-- 💬 Ask me about **I would be happy to help you with my skill-set such as HTML,CSS,Bootstrap 5, Javascript ES6 ,React js, React Redux.**
+💬 Ask me about **I would be happy to help you with my skill-set such as HTML,CSS,Bootstrap 5, Javascript ES6 ,React js, React Redux.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
