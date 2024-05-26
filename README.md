@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="left" width="10">I'm a front end developer with a passion for building user-friendly and engaging web applications. I have a strong understanding of the React library and its ecosystem, and I am proficient in using JavaScript, HTML, and CSS and Bootstrap to create dynamic and interactive interfaces.. </p>
+<p align="left" width="10">I'm a front end developer with a passion for building user-friendly and engaging web applications. I have a strong understanding of the React JS library and its ecosystem, and I am proficient in using  HTML,CSS and Bootstrap 5 ,Tailwind css,React js,Redux,Redux Toolkit to create dynamic and interactive interfaces.. </p>
 <br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tirthgajjar08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
